@@ -1,9 +1,18 @@
-Test
+-----------------------------------------------
+# GDPglobal
 
-test
+Data science application. Made to showcase financial data around the world using a lightweight web app. Uses Mapbox to render map and financial data
 
-* test
 
-- test
+[Website](https://github.com/Toughee/dmap)
 
-![test img](https://testcreative.co.uk/wp-content/uploads/2017/10/Test-Logo-Circle-black-transparent.png "test")
+## About it's development
+
+Initially made as a Django app called [GDPDig](https://github.com/Toughee/GDPdig) . Changed into a React app and includes financial data from every nation on Planet Earth. 
+
+## Technology for project
+
+- Mapbox
+- React
+
+
