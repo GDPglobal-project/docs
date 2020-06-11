@@ -1,13 +1,12 @@
 
-Documentation website for data visualization project: [GDPglobal](https://github.com/Toughee/GDPglobal)
+Documentation website for data visualization project: [GDPglobal](https://github.com/Toughee/GDPglobal). Lists all additional files for the project involving making commits or creating bug reports. 
 
 -----------------------------------------------
 # GDPglobal
 
 Data science application. Made to showcase financial data around the world using a lightweight web app. Uses Mapbox to render map and financial data
 
-
-[Website](https://github.com/Toughee/dmap)
+- [Live website](https://testgdp.github.io/GDPglobal/)
 
 ## About it's development
 

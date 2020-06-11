@@ -4,7 +4,7 @@
 Data science application. Made to showcase financial data around the world using a lightweight web app. Uses Mapbox to render map and financial data
 
 
-[Website](https://github.com/Toughee/dmap)
+- [Live website](https://testgdp.github.io/GDPglobal/)
 
 ## About it's development
 
